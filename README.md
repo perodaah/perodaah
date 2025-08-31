@@ -18,7 +18,7 @@ INSTRUCTIONS:
 <p align="center">Aspiring <b>Cloud Engineer</b> & <b>Backend Developer</b> with a growing passion for <b>Data Engineering</b>. I’m building real-world projects as I learn at <b>ALX</b> — with a simple goal: <i>stand out, ship value, and support my family</i>.</p>
 
 <p align="center">
-  <a href="https://github.com/perodaah"><img src="https://img.shields.io/github/followers/USERNAME?label=Follow&style=social" alt="GitHub followers" /></a>
+  <a href="https://github.com/perodaah"><img src="https://img.shields.io/github/followers/perodaah?label=Follow&style=social" alt="GitHub followers" /></a>
   <a href="https://linkedin.com/in/perodaah"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:perodaah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email" /></a>
   <a href="https://jr.dev/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf" alt="Portfolio" /></a>
