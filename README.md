@@ -18,9 +18,9 @@ INSTRUCTIONS:
 <p align="center">Aspiring <b>Cloud Engineer</b> & <b>Backend Developer</b> with a growing passion for <b>Data Engineering</b>. I’m building real-world projects as I learn at <b>ALX</b> — with a simple goal: <i>stand out, ship value, and support my family</i>.</p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/github/followers/USERNAME?label=Follow&style=social" alt="GitHub followers" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email" /></a>
+  <a href="https://github.com/perodaah"><img src="https://img.shields.io/github/followers/USERNAME?label=Follow&style=social" alt="GitHub followers" /></a>
+  <a href="https://linkedin.com/in/perodaah"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:perodaah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email" /></a>
   <a href="https://jr.dev/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf" alt="Portfolio" /></a>
 </p>
 
@@ -81,7 +81,7 @@ INSTRUCTIONS:
 
 **What it shows**: API design, serverless patterns, infra-as-code, cost awareness, tests.
 
-**Repo**: <a href="https://github.com/USERNAME/cloud-url-shortener">USERNAME/cloud-url-shortener</a>
+**Repo**: <a href="https://github.com/perodaah/cloud-url-shortener">Perodaah/cloud-url-shortener</a>
 
 </details>
 
@@ -92,7 +92,7 @@ INSTRUCTIONS:
 
 **What it shows**: Clean architecture, DB migrations, health checks, CI, containerization.
 
-**Repo**: <a href="https://github.com/USERNAME/fastapi-microservice">USERNAME/fastapi-microservice</a>
+**Repo**: <a href="https://github.com/perodaah/fastapi-microservice">perodaah/fastapi-microservice</a>
 
 </details>
 
@@ -103,7 +103,7 @@ INSTRUCTIONS:
 
 **What it shows**: Data modeling, orchestration, lineage, and analytics-ready datasets.
 
-**Repo**: <a href="https://github.com/USERNAME/aws-etl-pipeline">USERNAME/aws-etl-pipeline</a>
+**Repo**: <a href="https://github.com/perodaah/aws-etl-pipeline">perodaah/aws-etl-pipeline</a>
 
 </details>
 
@@ -114,7 +114,7 @@ INSTRUCTIONS:
 
 **What it shows**: Reusable modules, variables/outputs, versioning, examples & docs.
 
-**Repo**: <a href="https://github.com/USERNAME/terraform-aws-modules">USERNAME/terraform-aws-modules</a>
+**Repo**: <a href="https://github.com/perodaah/terraform-aws-modules">perodaah/terraform-aws-modules</a>
 
 </details>
 
@@ -125,7 +125,7 @@ INSTRUCTIONS:
 
 **What it shows**: Real-time ingestion, transformations, and analytics.
 
-**Repo**: <a href="https://github.com/USERNAME/streaming-demo">USERNAME/streaming-demo</a>
+**Repo**: <a href="https://github.com/perodaah/streaming-demo">perodaah/streaming-demo</a>
 
 </details>
 
