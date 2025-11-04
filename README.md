@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi, I'm <span title="Preferred name">JR</span> 👋</h1>
 
-<p align="center">Aspiring <b>Cloud Engineer</b> & <b>Backend Developer</b> with a growing passion for <b>Data Engineering</b>. I’m building real-world projects as I learn at <b>ALX</b> — with a simple goal: <i>stand out, ship value, and support my family</i>.</p>
+<p align="center">Aspiring <b>Cloud Engineer</b> & <b>Backend Developer</b> with a growing passion for <b>Data Engineering</b>. I’m building real-world projects as I learn at <b>ALX</b> — with a simple goal: <i>stand out, ship value, and be of value to my team, family and everyone around me</i>.</p>
 
 <p align="center">
   <a href="https://github.com/perodaah"><img src="https://img.shields.io/github/followers/perodaah?label=Follow&style=social" alt="GitHub followers" /></a>
