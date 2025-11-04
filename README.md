@@ -1,9 +1,4 @@
-<!--
-INSTRUCTIONS:
-1) Replace all UPPERCASE_PLACEHOLDER blocks.
-2) Delete instruction comments before publishing.
-3) Keep sections that fit your story; remove the rest.
--->
+
 
 <!-- ===== HERO / HEADER ===== -->
 
@@ -31,7 +26,7 @@ INSTRUCTIONS:
 ### 🚀 About Me
 
 * 🎓 Learner @ **ALX** — Tracks: **Cloud Computing**, **Software Engineering (Backend/Pro Dev)**, **Data Engineering**
-* 🎯 Goal (by New Year): **Financially comfortable + job-ready**, by building & shipping practical projects
+* 🎯 Goal (by New Year): **Increased Knowledge + job-readiness**, by building & shipping practical projects
 * 💡 Interests: **AWS**, **Linux**, **Python**, **Terraform**, **Docker/K8s**, **FastAPI**, **PostgreSQL**, **Airflow**, **Spark**, **DataOps**
 * 🧭 Value: Document in public, focus on fundamentals, automate everything, measure impact
 
@@ -150,11 +145,11 @@ INSTRUCTIONS:
 ### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=perodaah" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=perodaah&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perodaah&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -164,8 +159,8 @@ INSTRUCTIONS:
 ### 🎓 Education & Certifications
 
 * **ALX** — Cloud Computing | Software Engineering (Backend/Pro Dev) | Data Engineering *(in progress)*
-* **B.Sc.** Mathematics & Computer Science — UNIVERSITY\_NAME
-* **Certs (target)**: AWS Cloud Practitioner → AWS Solutions Architect Associate → Terraform Associate
+* **B.Sc.** Mathematics & Computer Science
+* **Certs (target)**: AWS Cloud Practitioner → AWS Solutions Architect Associate 
 
 ---
 
@@ -187,7 +182,7 @@ INSTRUCTIONS:
 * Freelance/contract projects, open-source, and mentorship
 * Remote/hybrid opportunities
 
-📫 **Reach me:** **YOUR\_EMAIL** · **LinkedIn/USERNAME** · **Twitter @HANDLE**
+📫 **Reach me:** **agabiordaah@gmail.com** · **(http://linkedin.com/in/perodaah)** · **@X**
 
 ---
 
@@ -230,17 +225,6 @@ INSTRUCTIONS:
 > Each idea is scoped to demonstrate **cloud + backend + data** together.
 
 ---
-
-<!-- ===== HOW TO USE THIS TEMPLATE ===== -->
-
-### 🛠️ How to Use This Template
-
-1. **Create** a repo named `<USERNAME>` (exactly your handle). Add a `README.md` — this becomes your profile page.
-2. **Copy** this template into `README.md` and replace placeholders: `USERNAME`, `YOUR_EMAIL`, links, and project repo names.
-3. **Pin** 4–6 flagship repos (go to your profile → Customize pins).
-4. **Add** images/gifs to each repo’s README (architecture diagrams, screenshots, badges).
-5. **Automate** with GitHub Actions badges (tests passing, deploy status).
-6. **Keep it alive**: update the **Learning-in-Public Roadmap** weekly.
 
 ---
 
