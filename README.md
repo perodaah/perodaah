@@ -222,7 +222,7 @@
 7. **Serverless Image Pipeline** — S3 triggers → Lambda → thumbnails + metadata → CloudFront
 8. **End‑to‑End Hiring Tracker** — Backend API (FastAPI) + Postgres + simple dashboard; deploy with Docker + Actions + Terraform
 
-> Each idea is scoped to demonstrate **cloud + backend + data** together.
+
 
 ---
 
