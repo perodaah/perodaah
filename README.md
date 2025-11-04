@@ -67,7 +67,6 @@
 
 ### 🌟 Highlighted Projects
 
-> Tip: Keep 4–6 flagship repos pinned on your profile. Each card below can be a repo README section.
 
 <details>
 <summary><b>1) Cloud-Ready URL Shortener (Serverless)</b></summary>
@@ -182,7 +181,7 @@
 * Freelance/contract projects, open-source, and mentorship
 * Remote/hybrid opportunities
 
-📫 **Reach me:** **agabiordaah@gmail.com** · **(http://linkedin.com/in/perodaah)** · **@X**
+📫 **Reach me:** **perodaah@gmail.com** · **(http://linkedin.com/in/perodaah)** · **@X**
 
 ---
 
