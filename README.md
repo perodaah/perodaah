@@ -206,11 +206,11 @@
 
 </details>
 
----
+<!---
 
-<!-- ===== PROJECT IDEAS YOU CAN BUILD NEXT ===== -->
+ ===== PROJECT IDEAS YOU CAN BUILD NEXT ===== -->
 
-### 🧪 Project Ideas (Aligned with Your Learning)
+<!--### 🧪 Project Ideas (Aligned with Your Learning)
 
 1. **Cloud Cost Dashboard** — Pull AWS Cost Explorer → visualize trends; alerts on spikes (Lambda + EventBridge + DynamoDB + simple React or CLI)
 2. **Infra as Code Starter Kit** — Opinionated Terraform modules with examples (VPC, RDS, IAM, S3, CloudFront) + GitHub Actions checks
@@ -221,7 +221,7 @@
 7. **Serverless Image Pipeline** — S3 triggers → Lambda → thumbnails + metadata → CloudFront
 8. **End‑to‑End Hiring Tracker** — Backend API (FastAPI) + Postgres + simple dashboard; deploy with Docker + Actions + Terraform
 
-
+-->
 
 ---
 
