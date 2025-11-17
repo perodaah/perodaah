@@ -1,232 +1,164 @@
-
-
-<!-- ===== HERO / HEADER ===== -->
-
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Location-Nigeria-informational" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20Backend%20%7C%20Data%20Engineering-blue" alt="Focus" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20CLF-FF9900?logo=amazon-aws" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-informational" alt="Location" />
 </p>
 
-<h1 align="center">Hi, I'm <span title="Preferred name">JR</span> 👋</h1>
-
-<p align="center">Aspiring <b>Cloud Engineer</b> & <b>Backend Developer</b> with a growing passion for <b>Data Engineering</b>. I’m building real-world projects as I learn at <b>ALX</b> — with a simple goal: <i>stand out, ship value, and be of value to my team, family and everyone around me</i>.</p>
+<h1 align="center">Hi, I'm JR 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/perodaah"><img src="https://img.shields.io/github/followers/perodaah?label=Follow&style=social" alt="GitHub followers" /></a>
-  <a href="https://linkedin.com/in/perodaah"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:perodaah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email" /></a>
-  <a href="https://jr.dev/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-9cf" alt="Portfolio" /></a>
+Building my way into tech through <b>Cloud</b>, <b>Backend</b>, <b>Data Engineering</b>, and <b>Security</b>.<br/>
+Learning at <b>ALX</b> • AWS Certified Cloud Practitioner • Documenting every step
 </p>
-
----
-
-<!-- ===== QUICK SUMMARY ===== -->
-
-### 🚀 About Me
-
-* 🎓 Learner @ **ALX** — Tracks: **Cloud Computing**, **Software Engineering (Backend/Pro Dev)**, **Data Engineering**
-* 🎯 Goal (by New Year): **Increased Knowledge + job-readiness**, by building & shipping practical projects
-* 💡 Interests: **AWS**, **Linux**, **Python**, **Terraform**, **Docker/K8s**, **FastAPI**, **PostgreSQL**, **Airflow**, **Spark**, **DataOps**
-* 🧭 Value: Document in public, focus on fundamentals, automate everything, measure impact
-
----
-
-<!-- ===== SKILLS / TOOLBOX ===== -->
-
-### 🧰 Toolbox
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900" />
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff" />
-  <img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=fff" />
-  <img alt="Apache Spark" src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=fff" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000" />
-</p>
-
----
-
-<!-- ===== CAREER SNAPSHOT ===== -->
-
-### 💼 What I’m Focused On
-
-* **Cloud**: Well-architected patterns, cost-aware design, IaC with Terraform, serverless
-* **Backend**: Python/FastAPI microservices, clean architecture, testing, observability
-* **Data Eng**: Batch & streaming pipelines, orchestration (Airflow), data modeling, analytics
-* **DevOps**: CI/CD on GitHub Actions, containers, security basics, infra monitoring
-
----
-
-<!-- ===== HIGHLIGHTED PROJECTS (Pin these Repos) ===== -->
-
-### 🌟 Highlighted Projects
-
-
-<details>
-<summary><b>1) Cloud-Ready URL Shortener (Serverless)</b></summary>
-
-**Stack**: AWS API Gateway • Lambda • DynamoDB • IaC (Terraform) • Python
-
-**What it shows**: API design, serverless patterns, infra-as-code, cost awareness, tests.
-
-**Repo**: <a href="https://github.com/perodaah/cloud-url-shortener">Perodaah/cloud-url-shortener</a>
-
-</details>
-
-<details>
-<summary><b>2) FastAPI Microservice Boilerplate</b></summary>
-
-**Stack**: FastAPI • PostgreSQL • SQLAlchemy • PyTest • Docker • GitHub Actions
-
-**What it shows**: Clean architecture, DB migrations, health checks, CI, containerization.
-
-**Repo**: <a href="https://github.com/perodaah/fastapi-microservice">perodaah/fastapi-microservice</a>
-
-</details>
-
-<details>
-<summary><b>3) ETL Pipeline on AWS (Data Engineering)</b></summary>
-
-**Stack**: S3 • Glue/Athena • Airflow • Spark (optional) • Parquet • Data Quality checks
-
-**What it shows**: Data modeling, orchestration, lineage, and analytics-ready datasets.
-
-**Repo**: <a href="https://github.com/perodaah/aws-etl-pipeline">perodaah/aws-etl-pipeline</a>
-
-</details>
-
-<details>
-<summary><b>4) Terraform Modules: VPC + RDS + IAM</b></summary>
-
-**Stack**: Terraform • AWS
-
-**What it shows**: Reusable modules, variables/outputs, versioning, examples & docs.
-
-**Repo**: <a href="https://github.com/perodaah/terraform-aws-modules">perodaah/terraform-aws-modules</a>
-
-</details>
-
-<details>
-<summary><b>5) Streaming Demo: Kafka → Spark → Warehouse</b></summary>
-
-**Stack**: Kafka • Spark Structured Streaming • DBT/BigQuery(or Redshift) • Airflow
-
-**What it shows**: Real-time ingestion, transformations, and analytics.
-
-**Repo**: <a href="https://github.com/perodaah/streaming-demo">perodaah/streaming-demo</a>
-
-</details>
-
----
-
-<!-- ===== PROJECTS IN PROGRESS / ROADMAP ===== -->
-
-### 🗺️ Learning-in-Public Roadmap
-
-* [ ] Publish weekly progress logs (Learning Journal)
-* [ ] Ship 1 small project every 2 weeks (MVP → refine)
-* [ ] Write 1 technical blog per month (design decisions, tradeoffs)
-* [ ] Earn **ALX** certificates & add verifiable links/badges
-* [ ] Contribute to 2+ open-source issues (good-first-issue)
-
-> See my **/journal** repo for notes, wins, and blockers.
-
----
-
-<!-- ===== METRICS / STATS ===== -->
-
-### 📊 Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=perodaah" alt="GitHub Streak" />
+  <a href="https://linkedin.com/in/perodaah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:perodaah@gmail.com"><img src="https://img.shields.io/badge/Email-perodaah@gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/perodaah"><img src="https://img.shields.io/github/followers/perodaah?label=Follow&style=social" alt="GitHub" /></a>
 </p>
+
+---
+
+## 🎯 What I'm Learning
+
+I'm on a focused journey to become job-ready by mastering fundamentals through hands-on projects:
+
+- **Backend Development**: Building APIs with Python/FastAPI, focusing on clean code and testing
+- **Cloud Engineering**: AWS infrastructure with Terraform, learning Well-Architected principles
+- **Data Engineering**: Understanding pipelines, orchestration, and data transformation
+- **Cybersecurity**: Applying security-first thinking to everything I build
+
+**My Approach**: Ship small, learn publicly, iterate constantly.
+
+---
+
+## 🛠️ Current Tech Stack
+
+**Learning & Using**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff)
+
+**Exploring**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=fff)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=fff)
+
+---
+
+## 🚧 Projects in Progress
+
+> **Note**: These are learning projects I'm building publicly. Each one teaches me specific skills while solving real problems. Feedback and suggestions are always welcome!
+
+### 🔐 [Secure API Starter](https://github.com/perodaah/secure-api-starter) 
+**Focus**: Backend + Security fundamentals  
+**Stack**: FastAPI, PostgreSQL, JWT, Docker  
+**Building**: Rate limiting, input validation, secure password handling  
+**Status**: 🟢 Active - Core auth flows complete, adding security features
+
+---
+
+### ☁️ [AWS Learning Labs](https://github.com/perodaah/aws-learning-labs)
+**Focus**: Cloud fundamentals & IaC  
+**Stack**: AWS (Lambda, S3, DynamoDB), Terraform  
+**Building**: Small, focused labs for each AWS service I'm learning  
+**Status**: 🟡 Growing - Adding new labs as I progress through SAA prep
+
+---
+
+### 📊 [Data Pipeline Experiments](https://github.com/perodaah/data-pipeline-experiments)
+**Focus**: Data engineering basics  
+**Stack**: Python, Pandas, Airflow, PostgreSQL  
+**Building**: Simple ETL workflows, learning orchestration patterns  
+**Status**: 🟡 Experimental - Testing different approaches to pipeline design
+
+---
+
+### 📚 [Learning Journal](https://github.com/perodaah/learning-journal)
+**What**: Weekly TILs, project retrospectives, study notes  
+**Why**: Documenting what I learn, mistakes I make, and how I fix them  
+**Status**: 🟢 Active - Updated weekly
+
+---
+
+## 📖 My Learning Path
+
+**Completed:**
+- ✅ AWS Certified Cloud Practitioner (January 2025)
+- ✅ ALX Software Engineering Foundations
+- ✅ Python fundamentals & OOP
+
+**Currently Working On:**
+- 🎯 AWS Solutions Architect Associate (Target: Q1 2025)
+- 🎯 ALX Backend Specialization
+- 🎯 ALX Data Engineering Track
+- 🎯 OWASP Top 10 security practices
+
+**Building Towards:**
+- 📌 Production-ready FastAPI microservices
+- 📌 Multi-service AWS deployments with Terraform
+- 📌 End-to-end data pipelines
+- 📌 DevSecOps practices
+
+---
+
+## 💡 What Makes My Approach Different
+
+🔍 **Learning in Public** — Every repo has honest documentation about what worked, what didn't, and why  
+🔒 **Security-First** — Even in learning projects, I'm applying secure coding practices  
+📐 **Fundamentals Over Frameworks** — Understanding the "why" before the "how"  
+🧪 **Test-Driven Growth** — Learning to write tests as I learn to write code  
+💰 **Cost-Conscious** — Always considering the economics of cloud solutions
+
+---
+
+## 📈 Progress Tracker
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=perodaah&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perodaah&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=perodaah&theme=default" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perodaah&layout=compact&hide=html,css" alt="Top Languages" height="165" />
 </p>
 
 ---
 
-<!-- ===== EXPERIENCE / EDUCATION ===== -->
+## 🎓 Education & Learning
 
-### 🎓 Education & Certifications
-
-* **ALX** — Cloud Computing | Software Engineering (Backend/Pro Dev) | Data Engineering *(in progress)*
-* **B.Sc.** Mathematics & Computer Science
-* **Certs (target)**: AWS Cloud Practitioner → AWS Solutions Architect Associate 
-
----
-
-<!-- ===== VALUE PROPOSITION ===== -->
-
-### 🧩 Why Me
-
-* I design for **reliability, cost, and maintainability**
-* I can **ship end‑to‑end**: infra → backend → data pipeline → CI/CD → docs
-* I document decisions, write tests, automate deployments, and measure outcomes
+- **B.Sc.** Mathematics & Computer Science
+- **AWS Certified Cloud Practitioner** (2025)
+- **ALX** — Cloud Computing, Backend Engineering, Data Engineering *(In Progress)*
+- **Self-Study** — Security best practices, system design, DevOps
 
 ---
 
-<!-- ===== CONTACT ===== -->
+## 🤝 Let's Connect
 
-### 🤝 Let’s Collaborate / I’m Open To
+**I'm looking for:**
+- Entry-level/junior roles where I can contribute and grow
+- Mentorship from experienced engineers
+- Open-source projects that welcome newcomers
+- Study groups for AWS certifications
 
-* Junior roles in **Cloud**, **Backend**, or **Data Engineering**
-* Freelance/contract projects, open-source, and mentorship
-* Remote/hybrid opportunities
+**I can offer:**
+- Fresh perspective and eagerness to learn
+- Solid fundamentals and growing practical skills
+- Documentation and testing mindset
+- Commitment to continuous improvement
 
-📫 **Reach me:** **perodaah@gmail.com** · **(http://linkedin.com/in/perodaah)** · **@X**
-
----
-
-<!-- ===== DETAILED PROJECT CARDS (Optional Section for README below the fold) ===== -->
-
-<details>
-<summary><b>Detailed Case Studies</b> (click to expand)</summary>
-
-#### Case Study A — Cost‑aware Serverless API
-
-* **Problem**: Provide URL shortener with low ops overhead & pay-per-use
-* **Solution**: API Gateway + Lambda + DynamoDB; IaC with Terraform; Canary deploys
-* **Results**: p95 latency < 100ms, monthly cost <\$1 at 100k requests
-* **What I learned**: TTLs, hot/cold starts, idempotency, structured logging
-
-#### Case Study B — Data Pipeline for Analytics
-
-* **Problem**: Raw CSVs from app events need a clean analytics dataset
-* **Solution**: S3 raw → Glue catalog → Airflow DAG → Spark transforms → Athena
-* **Results**: Partitioned Parquet; query costs reduced 70% vs raw CSV
-* **What I learned**: Data quality checks, schema evolution, columnar formats
-
-</details>
-
-<!---
-
- ===== PROJECT IDEAS YOU CAN BUILD NEXT ===== -->
-
-<!--### 🧪 Project Ideas (Aligned with Your Learning)
-
-1. **Cloud Cost Dashboard** — Pull AWS Cost Explorer → visualize trends; alerts on spikes (Lambda + EventBridge + DynamoDB + simple React or CLI)
-2. **Infra as Code Starter Kit** — Opinionated Terraform modules with examples (VPC, RDS, IAM, S3, CloudFront) + GitHub Actions checks
-3. **Observability-in-a-Box** — Docker compose for Prometheus + Grafana + Loki + OpenTelemetry demo with FastAPI service
-4. **Data Quality Monitor** — Great Expectations + Airflow DAG validating datasets; Slack notifications
-5. **Streaming Clickstream Lab** — Kafka producers → Spark streaming → windowed aggregations → Postgres/Redshift for BI
-6. **RAG Knowledge Bot** — FastAPI + vector DB; deploy on AWS (ECS/Fargate) with CI/CD; infra via Terraform
-7. **Serverless Image Pipeline** — S3 triggers → Lambda → thumbnails + metadata → CloudFront
-8. **End‑to‑End Hiring Tracker** — Backend API (FastAPI) + Postgres + simple dashboard; deploy with Docker + Actions + Terraform
-
--->
+📧 **Email**: perodaah@gmail.com  
+💼 **LinkedIn**: [linkedin.com/in/perodaah](https://linkedin.com/in/perodaah)  
+🐦 **Twitter**: [@](https://twitter.com/)
 
 ---
 
----
+<p align="center">
+  <i>"The best way to learn is to build, break, fix, and share."</i>
+</p>
 
-<!-- ===== FOOTER QUOTE ===== -->
-
-<p align="center"><i>“Build in public. Learn loudly. Help others. The rest follows.”</i> — JR</p>
+<p align="center">
+  <sub>⭐️ Currently building and learning—follow along for the journey!</sub>
+</p>
